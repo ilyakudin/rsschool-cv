@@ -19,3 +19,13 @@ I will be glad to cooperate.
 - HTML5, CSS3, JavaScript basics
 - Sass
 - Visual Studio Code
+## Work experience
+
+## Code examples
+
+## Education
+Brest state technical University: faculty of Logistics
+Online courses Front-End 2020 on Udemy
+Highlights school - Web Design Basics Course
+## English
+My English level is A2 (Pre-intermediate). Also in the near future I'm going to improve my level of English
