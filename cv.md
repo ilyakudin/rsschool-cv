@@ -8,10 +8,8 @@
 - Discord: **IlyaKudin#5029**
 
 ## Summary
-Hello, my name is Ilya and I want to be a frontend developer.
-I started my way in IT with Web Designer in 2020. I was complited a courses and successfully started to work as a freelancer .
-I have well-developed skills in Adobe Photoshop, Adobe Illustrator, Figma and I keep up-to-date with changes in the industry.  
-Also, I have finished a front end development course and understanded that: I want to progress in this sphere and  I can be more productive there.
+Hello, my name is Ilya and I'm a candidate for the position frontend developer.
+I started my professional way in IT as Web Designer in 2020. I graduated from the courses and started to work successfully on freelance. I have well-developed skills in Adobe Photoshop, Adobe Illustrator, Figma and I constantly monitor changes in the industry. I have also completed courses at a front-end development and understood that I`d like to progress in this sphere and, moreover, I can work there more productively.
 I am ready to learn and be useful.
 I will be glad to cooperate.
 
@@ -23,8 +21,10 @@ I will be glad to cooperate.
 - Visual Studio Code
 
 ## Work experience
-
-## Code examples
+Experience in the design of web-sites 1 year 
+Professional Qualifications:
+- Created logo and advertising layouts for a web-site.
+- Prepare a design project a few Firm
 
 ## Education
 - Brest state technical University: faculty of Logistics
