@@ -1,5 +1,5 @@
 # Ilya Kudin
-<img src="img/ava.jpg" width="400">
+<img src="img/ava.jpg" width="300">
 
 ## Contacts
 - E-mail: **ilya.kudin@mail.ru**
@@ -33,4 +33,4 @@ Professional Qualifications:
 - Training lessons on Figma.
 
 ## English
-My English level is A2 (Pre-intermediate). Also in the near future I'm going to improve my level of English
+My English level is A2 (Pre-intermediate). Also in the near future I'm going to improve my level of English.
