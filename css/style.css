@@ -5,8 +5,9 @@
 }
 
 .promo {
-    height: 1080px;
-    background: url(../img/board-1.jpg);
+    height: 800px;
+    padding-top: 35px;
+    background: url(../img/board-1.jpg) no-repeat;
 }
 
 .container {
@@ -19,15 +20,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.header__logo {
-    width: 125px;
-    height: 125px;
-}
-
-.header__menu {
-    color: #ffffff;
 }
 
 .menu__title {
@@ -45,12 +37,19 @@
     cursor: pointer;
 }
 
-/* .header_menu {
-    list-style-type: none;
-} */
+.promo__header {
+    color:#ffffff;
+    margin-top: 250px;
+    font-size: 160px;
+    font-weight: 900;
+}
 
+.promo__subheader {
+    color:#ffffff;
+    font-size: 50px;
+    font-weight: 300;
+}
 
-/* .header__logo {
-    width: 125px;
-    height: 125px;
-} */
+.promo__ava {
+    transform: translate(870px, -170px);
+}
