@@ -14,17 +14,17 @@ I am ready to learn and be useful.
 I will be glad to cooperate.
 
 ## Skills
-- Photoshop, Figma
-- Adobe Illustrator
-- HTML5, CSS3, JavaScript basics
-- Sass
-- Visual Studio Code
+- Photoshop, Figma;
+- Adobe Illustrator;
+- HTML5, CSS3, JavaScript basics;
+- Sass;
+- Visual Studio Code.
 
 ## Work experience
 Experience in the design of web-sites 1 year 
 Professional Qualifications:
-- Created logo and advertising layouts for a web-site.
-- Prepare a design project a few Firm
+- Created logo and advertising layouts for a web-site;
+- Prepare a design project a few Firm.
 
 ## Education
 - Brest state technical University: faculty of Logistics
