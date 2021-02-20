@@ -8,6 +8,7 @@
     height: 800px;
     padding-top: 35px;
     background: url(../img/board-1.jpg) no-repeat;
+    background-size: cover;
 }
 
 .container {
@@ -52,4 +53,39 @@
 
 .promo__ava {
     transform: translate(870px, -170px);
+}
+
+.contacts {
+    height: 700px;
+    background: url(../img/board-2.jpg) no-repeat;
+    background-size: cover;
+}
+
+.contacts__board1 {
+    padding-top: 90px;
+    font-size: 100px;
+    font-weight: 500;
+    text-align: left;
+    color: #000000;
+}
+
+.social__network {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.sociale__icon {
+    display: flex;
+    justify-content: start;
+    margin-top: 100px;
+    width: 540px;
+    font-size: 36px;
+    font-weight: 300;
+    color: #000000;
+    align-items: center;
+}
+
+.sociale__icon > img {
+    margin-right: 35px;
 }
