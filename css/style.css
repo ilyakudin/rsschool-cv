@@ -30,8 +30,11 @@
 }
 
 .menu__title > a {
-    color: #ffffff;
     text-decoration: none;
+    font-size: 28px;
+    font-weight: 100;
+    text-align: left;
+    color: #ffffff;
 }
 
 .menu__title > a:hover {
